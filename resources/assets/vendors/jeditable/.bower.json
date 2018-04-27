@@ -1,0 +1,14 @@
+{
+  "name": "jeditable",
+  "homepage": "https://github.com/tuupola/jquery_jeditable",
+  "version": "2.0.1",
+  "_release": "2.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.0.1",
+    "commit": "b2630d524a69d609a8586196b816e5acff168e79"
+  },
+  "_source": "https://github.com/tuupola/jquery_jeditable.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/tuupola/jquery_jeditable.git"
+}
